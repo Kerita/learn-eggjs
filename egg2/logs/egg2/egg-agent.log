@@ -1,0 +1,60 @@
+2017-08-07 11:35:07,388 INFO 9072 [egg:logger] init all loggers with options: {"dir":"D:\\learn-eggjs\\egg2\\logs\\egg2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-08-07 11:35:07,451 INFO 9072 [egg-watcher:agent] watcher start success
+2017-08-07 11:36:26,431 WARN 9072 [agent:development] reload worker because D:\learn-eggjs\egg2\app\controller\home.js change
+2017-08-07 11:36:27,257 WARN 9072 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-08-07 11:36:33,517 INFO 2684 [egg:logger] init all loggers with options: {"dir":"D:\\learn-eggjs\\egg2\\logs\\egg2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-08-07 11:36:33,578 INFO 2684 [egg-watcher:agent] watcher start success
+2017-08-07 11:43:11,128 WARN 2684 [agent:development] reload worker because D:\learn-eggjs\egg2\config\plugin.js change
+2017-08-07 11:43:11,815 WARN 2684 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-08-07 11:43:49,435 WARN 2684 [agent:development] reload worker because D:\learn-eggjs\egg2\config\plugin.js change
+2017-08-07 11:43:49,908 WARN 2684 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-08-07 11:44:57,790 WARN 2684 [agent:development] reload worker because D:\learn-eggjs\egg2\config\config.default.js change
+2017-08-07 11:49:16,303 WARN 2684 [agent:development] reload worker because D:\learn-eggjs\egg2\app\controller\news.js change
+2017-08-07 11:57:32,890 WARN 2684 [agent:development] reload worker because D:\learn-eggjs\egg2\app\router.js change
+2017-08-07 12:01:52,571 WARN 2684 [agent:development] reload worker because D:\learn-eggjs\egg2\app\controller\news.js change
+2017-08-07 12:03:31,798 WARN 2684 [agent:development] reload worker because D:\learn-eggjs\egg2\app\controller\news.js change
+2017-08-07 12:07:10,919 WARN 2684 [agent:development] reload worker because D:\learn-eggjs\egg2\app\controller\news.js change
+2017-08-07 12:07:13,680 INFO 8764 [egg:logger] init all loggers with options: {"dir":"D:\\learn-eggjs\\egg2\\logs\\egg2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-08-07 12:07:13,738 INFO 8764 [egg-watcher:agent] watcher start success
+2017-08-07 14:37:53,223 WARN 2684 [agent:development] reload worker because D:\learn-eggjs\egg2\config\config.default.js change
+2017-08-07 14:37:53,228 WARN 8764 [agent:development] reload worker because D:\learn-eggjs\egg2\config\config.default.js change
+2017-08-07 14:37:53,897 WARN 2684 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-08-07 14:37:53,906 WARN 8764 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-08-07 14:40:35,896 WARN 2684 [agent:development] reload worker because D:\learn-eggjs\egg2\app\service\news.js change
+2017-08-07 14:40:35,897 WARN 8764 [agent:development] reload worker because D:\learn-eggjs\egg2\app\service\news.js change
+2017-08-07 14:40:36,618 WARN 8764 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-08-07 14:40:36,612 WARN 2684 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-08-07 14:47:37,646 WARN 8764 [agent:development] reload worker because D:\learn-eggjs\egg2\app\service\news.js change
+2017-08-07 14:47:38,436 WARN 2684 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-08-07 14:47:37,644 WARN 2684 [agent:development] reload worker because D:\learn-eggjs\egg2\app\service\news.js change
+2017-08-07 14:47:38,441 WARN 8764 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-08-07 15:02:05,333 WARN 2684 [agent:development] reload worker because D:\learn-eggjs\egg2\app\service\news.js change
+2017-08-07 15:02:05,334 WARN 8764 [agent:development] reload worker because D:\learn-eggjs\egg2\app\service\news.js change
+2017-08-07 15:08:44,766 WARN 2684 [agent:development] reload worker because D:\learn-eggjs\egg2\app\service\news.js change
+2017-08-07 15:08:44,766 WARN 8764 [agent:development] reload worker because D:\learn-eggjs\egg2\app\service\news.js change
+2017-08-07 15:10:35,002 WARN 8764 [agent:development] reload worker because D:\learn-eggjs\egg2\app\controller\news.js change
+2017-08-07 15:10:35,003 WARN 2684 [agent:development] reload worker because D:\learn-eggjs\egg2\app\controller\news.js change
+2017-08-07 15:10:35,677 WARN 2684 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-08-07 15:10:35,670 WARN 8764 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-08-07 15:12:31,740 WARN 2684 [agent:development] reload worker because D:\learn-eggjs\egg2\app\extend\helper.js change
+2017-08-07 15:12:31,741 WARN 8764 [agent:development] reload worker because D:\learn-eggjs\egg2\app\extend\helper.js change
+2017-08-07 15:12:32,427 WARN 2684 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-08-07 15:12:32,416 WARN 8764 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-08-07 15:14:29,255 WARN 8764 [agent:development] reload worker because D:\learn-eggjs\egg2\config\config.default.js change
+2017-08-07 15:14:29,256 WARN 2684 [agent:development] reload worker because D:\learn-eggjs\egg2\config\config.default.js change
+2017-08-07 15:14:29,942 WARN 2684 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-08-07 15:14:29,934 WARN 8764 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-08-07 15:16:22,081 INFO 8908 [egg:logger] init all loggers with options: {"dir":"D:\\learn-eggjs\\egg2\\logs\\egg2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-08-07 15:16:22,139 INFO 8908 [egg-watcher:agent] watcher start success
+2017-08-07 15:16:47,703 INFO 10508 [egg:logger] init all loggers with options: {"dir":"D:\\learn-eggjs\\egg2\\logs\\egg2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-08-07 15:16:47,760 INFO 10508 [egg-watcher:agent] watcher start success
+2017-08-07 17:38:07,191 WARN 10508 [agent:development] reload worker because D:\learn-eggjs\egg2\app\controller\news.js change
+2017-08-07 17:38:08,067 WARN 10508 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-08-07 17:38:42,451 WARN 10508 [agent:development] reload worker because D:\learn-eggjs\egg2\app\controller\news.js change
+2017-08-07 17:38:43,199 WARN 10508 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-08-07 17:38:56,897 WARN 10508 [agent:development] reload worker because D:\learn-eggjs\egg2\app\controller\news.js change
+2017-08-07 17:38:57,712 WARN 10508 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-08-07 17:39:05,956 WARN 10508 [agent:development] reload worker because D:\learn-eggjs\egg2\app\controller\news.js change
+2017-08-07 17:39:06,760 WARN 10508 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-08-08 15:37:03,831 INFO 6804 [egg:logger] init all loggers with options: {"dir":"D:\\learn-eggjs\\egg2\\logs\\egg2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-08-08 15:37:03,944 INFO 6804 [egg-watcher:agent] watcher start success
